@@ -40,4 +40,18 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-experience{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 5px;
+    height: 80%;
+
+}
+.experience-area{
+    background-image: url(picture/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    
+}
 
